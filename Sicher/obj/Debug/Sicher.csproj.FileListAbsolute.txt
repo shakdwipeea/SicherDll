@@ -1,0 +1,14 @@
+C:\Users\Akash\documents\visual studio 2013\Projects\Sicher\Sicher\obj\Debug\Sicher.csprojResolveAssemblyReference.cache
+C:\Users\Akash\documents\visual studio 2013\Projects\Sicher\Sicher\bin\Debug\Sicher.dll
+C:\Users\Akash\documents\visual studio 2013\Projects\Sicher\Sicher\bin\Debug\Sicher.pdb
+C:\Users\Akash\documents\visual studio 2013\Projects\Sicher\Sicher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akash\documents\visual studio 2013\Projects\Sicher\Sicher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Akash\documents\visual studio 2013\Projects\Sicher\Sicher\obj\Debug\Sicher.dll
+C:\Users\Akash\documents\visual studio 2013\Projects\Sicher\Sicher\obj\Debug\Sicher.pdb
+D:\SicherDll-master\Sicher\bin\Debug\Sicher.dll
+D:\SicherDll-master\Sicher\bin\Debug\Sicher.pdb
+D:\SicherDll-master\Sicher\bin\Debug\Newtonsoft.Json.dll
+D:\SicherDll-master\Sicher\bin\Debug\Newtonsoft.Json.xml
+D:\SicherDll-master\Sicher\obj\Debug\Sicher.csprojResolveAssemblyReference.cache
+D:\SicherDll-master\Sicher\obj\Debug\Sicher.dll
+D:\SicherDll-master\Sicher\obj\Debug\Sicher.pdb
